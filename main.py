@@ -4,7 +4,7 @@ def add_numbers(num1, num2):
 
 # Get input from the user
 number1 = 4
-number2 = 5
+number2 = 6
 
 # Call the function to add the numbers
 result = add_numbers(number1, number2)
